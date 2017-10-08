@@ -1,5 +1,4 @@
 # mupa.ahk 
-Make Undertale Playable Again
 
 **mupa** is an AutoHotKey script designed to implement better gamepad support in Undertale. The project has two goals:
 
